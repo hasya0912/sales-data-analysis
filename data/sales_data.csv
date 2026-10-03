@@ -1,0 +1,301 @@
+Order_ID,Date,Customer,City,Product,Quantity,Unit_Price
+1001,2026-02-27,Jay Ambe Traders,Rajkot,Wall Putty,22,500
+1002,2026-03-13,New Gujarat Sales,Surat,Wall Putty,48,500
+1003,2026-08-05,Shree Sales,Rajkot,Wall Putty,6,500
+1004,2026-04-30,ABC Traders,Rajkot,Exterior Paint,43,1100
+1005,2026-08-03,Mahalaxmi Enterprise,Gandhinagar,Primer,33,650
+1006,2026-01-04,Shivam Traders,Mehsana,Primer,49,650
+1007,2026-05-23,Maruti Hardware,Mehsana,Primer,18,650
+1008,2026-02-22,Shree Sales,Mehsana,Wall Putty,29,500
+1009,2026-06-26,Maruti Hardware,Ahmedabad,Exterior Paint,21,1100
+1010,2026-08-24,Umiya Enterprise,Anand,Exterior Paint,12,1100
+1011,2026-02-10,Ganesh Traders,Mehsana,Exterior Paint,23,1100
+1012,2026-04-09,Shakti Traders,Rajkot,Wall Putty,7,500
+1013,2026-05-29,Ganesh Traders,Surat,Wall Putty,19,500
+1014,2026-07-14,Shakti Traders,Mehsana,Wall Texture,34,900
+1015,2026-03-25,Jay Ambe Traders,Gandhinagar,Wall Texture,27,900
+1016,2026-02-06,Patel Hardware,Rajkot,Exterior Paint,45,1100
+1017,2026-03-25,Krishna Enterprise,Rajkot,Distemper,29,450
+1018,2026-06-16,Ganesh Traders,Ahmedabad,Wall Putty,19,500
+1019,2026-06-11,Shree Sales,Rajkot,Distemper,22,450
+1020,2026-06-11,Arihant Sales,Anand,Primer,46,650
+1021,2026-08-23,Patel Hardware,Rajkot,Primer,21,650
+1022,2026-05-15,Umiya Enterprise,Anand,Exterior Paint,32,1100
+1023,2026-07-05,Royal Hardware,Nadiad,Primer,13,650
+1024,2026-02-16,Patel Hardware,Vadodara,Wall Putty,12,500
+1025,2026-08-05,Shivam Traders,Anand,Exterior Paint,9,1100
+1026,2026-08-28,Royal Hardware,Ahmedabad,Exterior Paint,21,1100
+1027,2026-02-28,Maruti Hardware,Mehsana,Exterior Paint,22,1100
+1028,2026-02-27,Patel Hardware,Nadiad,Wall Texture,32,900
+1029,2026-01-02,Maruti Hardware,Vadodara,Wall Texture,37,900
+1030,2026-09-17,Krishna Enterprise,Rajkot,Wall Putty,45,500
+1031,2026-03-20,Royal Hardware,Ahmedabad,Wall Texture,15,900
+1032,2026-06-15,Shree Sales,Mehsana,Distemper,6,450
+1033,2026-06-07,Jay Ambe Traders,Surat,Primer,8,650
+1034,2026-02-13,Maruti Hardware,Vadodara,Distemper,9,450
+1035,2026-03-07,Patel Hardware,Gandhinagar,Distemper,40,450
+1036,2026-09-28,Jay Ambe Traders,Rajkot,Exterior Paint,32,1100
+1037,2026-06-09,Shakti Traders,Mehsana,Distemper,47,450
+1038,2026-08-13,Shree Sales,Rajkot,Exterior Paint,33,1100
+1039,2026-04-26,ABC Traders,Rajkot,Wall Putty,26,500
+1040,2026-04-23,New Gujarat Sales,Ahmedabad,Wall Putty,9,500
+1041,2026-04-28,Ganesh Traders,Mehsana,Wall Putty,7,500
+1042,2026-02-06,Krishna Enterprise,Nadiad,Exterior Paint,20,1100
+1043,2026-04-20,New Gujarat Sales,Nadiad,Exterior Paint,13,1100
+1044,2026-05-05,Jay Ambe Traders,Surat,Distemper,31,450
+1045,2026-02-19,Shivam Traders,Anand,Distemper,27,450
+1046,2026-08-28,Shakti Traders,Surat,Wall Putty,48,500
+1047,2026-02-01,Maruti Hardware,Surat,Distemper,26,450
+1048,2026-05-08,Royal Hardware,Nadiad,Primer,17,650
+1049,2026-03-13,Krishna Enterprise,Nadiad,Distemper,16,450
+1050,2026-05-08,Maruti Hardware,Surat,Wall Putty,33,500
+1051,2026-01-26,Shree Sales,Rajkot,Exterior Paint,5,1100
+1052,2026-03-27,Arihant Sales,Rajkot,Distemper,36,450
+1053,2026-07-25,Shivam Traders,Ahmedabad,Wall Putty,15,500
+1054,2026-07-19,Krishna Enterprise,Anand,Wall Texture,34,900
+1055,2026-09-07,Krishna Enterprise,Rajkot,Primer,17,650
+1056,2026-01-30,ABC Traders,Mehsana,Exterior Paint,39,1100
+1057,2026-01-30,Arihant Sales,Vadodara,Wall Putty,42,500
+1058,2026-01-30,Ganesh Traders,Vadodara,Exterior Paint,10,1100
+1059,2026-02-05,Shakti Traders,Rajkot,Exterior Paint,9,1100
+1060,2026-07-26,Jay Ambe Traders,Ahmedabad,Wall Putty,41,500
+1061,2026-02-11,Mahalaxmi Enterprise,Mehsana,Distemper,47,450
+1062,2026-05-14,New Gujarat Sales,Mehsana,Primer,47,650
+1063,2026-05-03,Patel Hardware,Gandhinagar,Wall Texture,30,900
+1064,2026-08-23,ABC Traders,Nadiad,Wall Texture,9,900
+1065,2026-02-21,Jay Ambe Traders,Gandhinagar,Wall Putty,39,500
+1066,2026-03-09,Umiya Enterprise,Rajkot,Wall Texture,9,900
+1067,2026-07-09,Arihant Sales,Gandhinagar,Wall Texture,15,900
+1068,2026-09-28,Ganesh Traders,Gandhinagar,Wall Putty,47,500
+1069,2026-02-23,Shree Sales,Surat,Primer,21,650
+1070,2026-03-21,Mahalaxmi Enterprise,Rajkot,Wall Texture,23,900
+1071,2026-06-25,Shakti Traders,Gandhinagar,Primer,48,650
+1072,2026-09-16,Umiya Enterprise,Ahmedabad,Distemper,21,450
+1073,2026-02-17,ABC Traders,Ahmedabad,Distemper,22,450
+1074,2026-06-20,Krishna Enterprise,Vadodara,Primer,45,650
+1075,2026-08-15,Shivam Traders,Ahmedabad,Exterior Paint,50,1100
+1076,2026-02-27,Umiya Enterprise,Vadodara,Wall Putty,49,500
+1077,2026-01-19,Royal Hardware,Vadodara,Wall Texture,42,900
+1078,2026-08-09,Krishna Enterprise,Mehsana,Primer,7,650
+1079,2026-01-21,Shakti Traders,Rajkot,Wall Texture,18,900
+1080,2026-02-22,Umiya Enterprise,Anand,Wall Texture,40,900
+1081,2026-03-21,Maruti Hardware,Vadodara,Primer,15,650
+1082,2026-07-31,New Gujarat Sales,Mehsana,Wall Putty,16,500
+1083,2026-07-30,Patel Hardware,Surat,Primer,22,650
+1084,2026-07-15,Jay Ambe Traders,Rajkot,Wall Putty,35,500
+1085,2026-08-24,Ganesh Traders,Rajkot,Wall Texture,24,900
+1086,2026-04-25,Jay Ambe Traders,Anand,Wall Putty,47,500
+1087,2026-06-18,Maruti Hardware,Gandhinagar,Wall Texture,9,900
+1088,2026-06-29,Shakti Traders,Mehsana,Exterior Paint,30,1100
+1089,2026-01-15,Patel Hardware,Gandhinagar,Wall Putty,21,500
+1090,2026-01-20,Shivam Traders,Mehsana,Wall Putty,43,500
+1091,2026-06-10,Royal Hardware,Surat,Distemper,43,450
+1092,2026-07-17,Krishna Enterprise,Ahmedabad,Exterior Paint,17,1100
+1093,2026-08-12,Umiya Enterprise,Rajkot,Wall Putty,38,500
+1094,2026-07-06,Shakti Traders,Mehsana,Distemper,9,450
+1095,2026-06-10,Royal Hardware,Gandhinagar,Wall Putty,24,500
+1096,2026-07-29,New Gujarat Sales,Gandhinagar,Wall Texture,30,900
+1097,2026-03-07,Shakti Traders,Anand,Primer,31,650
+1098,2026-03-31,Krishna Enterprise,Anand,Exterior Paint,41,1100
+1099,2026-01-01,Jay Ambe Traders,Anand,Wall Texture,23,900
+1100,2026-06-14,Arihant Sales,Rajkot,Distemper,33,450
+1101,2026-09-19,Shakti Traders,Surat,Distemper,15,450
+1102,2026-05-26,Shakti Traders,Mehsana,Exterior Paint,47,1100
+1103,2026-02-17,Krishna Enterprise,Rajkot,Primer,48,650
+1104,2026-04-12,ABC Traders,Rajkot,Primer,6,650
+1105,2026-09-01,Arihant Sales,Anand,Exterior Paint,9,1100
+1106,2026-04-10,Shivam Traders,Rajkot,Distemper,36,450
+1107,2026-03-17,Maruti Hardware,Anand,Wall Putty,11,500
+1108,2026-04-23,Royal Hardware,Nadiad,Primer,49,650
+1109,2026-01-26,Umiya Enterprise,Surat,Exterior Paint,20,1100
+1110,2026-08-22,Shakti Traders,Mehsana,Primer,34,650
+1111,2026-08-15,Shivam Traders,Nadiad,Exterior Paint,37,1100
+1112,2026-03-23,Krishna Enterprise,Rajkot,Distemper,33,450
+1113,2026-05-22,Shakti Traders,Rajkot,Exterior Paint,36,1100
+1114,2026-05-21,New Gujarat Sales,Gandhinagar,Distemper,9,450
+1115,2026-05-01,Om Hardware,Surat,Wall Texture,26,900
+1116,2026-03-12,Shivam Traders,Vadodara,Primer,19,650
+1117,2026-04-20,Shivam Traders,Mehsana,Wall Putty,31,500
+1118,2026-08-27,Jay Ambe Traders,Anand,Distemper,8,450
+1119,2026-07-19,ABC Traders,Anand,Exterior Paint,49,1100
+1120,2026-09-02,Krishna Enterprise,Anand,Wall Putty,27,500
+1121,2026-08-03,Maruti Hardware,Rajkot,Exterior Paint,39,1100
+1122,2026-09-07,Shivam Traders,Nadiad,Primer,22,650
+1123,2026-01-15,Shakti Traders,Anand,Distemper,26,450
+1124,2026-03-26,Mahalaxmi Enterprise,Ahmedabad,Distemper,13,450
+1125,2026-07-21,Shakti Traders,Ahmedabad,Exterior Paint,41,1100
+1126,2026-02-12,Ganesh Traders,Nadiad,Distemper,13,450
+1127,2026-04-04,Shivam Traders,Mehsana,Wall Putty,21,500
+1128,2026-04-19,Om Hardware,Anand,Distemper,25,450
+1129,2026-05-23,Ganesh Traders,Surat,Distemper,21,450
+1130,2026-08-29,ABC Traders,Mehsana,Wall Putty,39,500
+1131,2026-04-25,ABC Traders,Ahmedabad,Wall Putty,46,500
+1132,2026-05-07,Mahalaxmi Enterprise,Vadodara,Primer,6,650
+1133,2026-05-03,Shakti Traders,Surat,Primer,35,650
+1134,2026-04-22,Krishna Enterprise,Mehsana,Distemper,49,450
+1135,2026-03-27,New Gujarat Sales,Surat,Exterior Paint,43,1100
+1136,2026-03-25,Mahalaxmi Enterprise,Ahmedabad,Wall Texture,11,900
+1137,2026-06-09,Umiya Enterprise,Anand,Exterior Paint,48,1100
+1138,2026-07-23,Mahalaxmi Enterprise,Rajkot,Primer,9,650
+1139,2026-02-22,Mahalaxmi Enterprise,Surat,Wall Texture,48,900
+1140,2026-01-22,Shivam Traders,Mehsana,Wall Texture,39,900
+1141,2026-02-05,Om Hardware,Ahmedabad,Exterior Paint,46,1100
+1142,2026-08-04,Shivam Traders,Mehsana,Distemper,11,450
+1143,2026-08-24,Patel Hardware,Gandhinagar,Primer,32,650
+1144,2026-09-05,Ganesh Traders,Gandhinagar,Distemper,32,450
+1145,2026-06-15,Krishna Enterprise,Nadiad,Primer,10,650
+1146,2026-05-05,Mahalaxmi Enterprise,Anand,Distemper,41,450
+1147,2026-06-22,Ganesh Traders,Mehsana,Wall Putty,36,500
+1148,2026-04-04,Om Hardware,Gandhinagar,Distemper,18,450
+1149,2026-06-24,New Gujarat Sales,Gandhinagar,Wall Texture,43,900
+1150,2026-01-06,Shree Sales,Rajkot,Exterior Paint,17,1100
+1151,2026-07-28,Maruti Hardware,Rajkot,Distemper,40,450
+1152,2026-09-01,Maruti Hardware,Ahmedabad,Distemper,33,450
+1153,2026-02-17,Shivam Traders,Rajkot,Wall Texture,19,900
+1154,2026-06-06,Arihant Sales,Mehsana,Exterior Paint,28,1100
+1155,2026-08-06,Om Hardware,Nadiad,Exterior Paint,26,1100
+1156,2026-05-19,Jay Ambe Traders,Surat,Wall Texture,21,900
+1157,2026-04-09,New Gujarat Sales,Vadodara,Wall Texture,12,900
+1158,2026-04-09,Krishna Enterprise,Gandhinagar,Primer,35,650
+1159,2026-02-21,Jay Ambe Traders,Mehsana,Primer,23,650
+1160,2026-04-02,New Gujarat Sales,Vadodara,Wall Texture,5,900
+1161,2026-05-21,Royal Hardware,Gandhinagar,Wall Putty,8,500
+1162,2026-03-06,Ganesh Traders,Ahmedabad,Distemper,11,450
+1163,2026-05-26,Arihant Sales,Mehsana,Distemper,35,450
+1164,2026-04-05,Ganesh Traders,Nadiad,Wall Putty,21,500
+1165,2026-02-28,Arihant Sales,Surat,Wall Putty,30,500
+1166,2026-01-28,Maruti Hardware,Gandhinagar,Primer,14,650
+1167,2026-02-13,Royal Hardware,Anand,Primer,12,650
+1168,2026-04-26,Arihant Sales,Nadiad,Exterior Paint,29,1100
+1169,2026-06-02,Krishna Enterprise,Ahmedabad,Exterior Paint,32,1100
+1170,2026-02-20,Jay Ambe Traders,Gandhinagar,Primer,45,650
+1171,2026-02-11,Patel Hardware,Surat,Primer,20,650
+1172,2026-03-22,Arihant Sales,Nadiad,Wall Putty,31,500
+1173,2026-05-30,Krishna Enterprise,Gandhinagar,Wall Putty,19,500
+1174,2026-08-21,Jay Ambe Traders,Gandhinagar,Wall Putty,48,500
+1175,2026-04-12,Royal Hardware,Rajkot,Distemper,12,450
+1176,2026-03-18,Shree Sales,Ahmedabad,Wall Texture,14,900
+1177,2026-03-26,New Gujarat Sales,Gandhinagar,Wall Texture,43,900
+1178,2026-08-13,New Gujarat Sales,Gandhinagar,Wall Putty,34,500
+1179,2026-07-26,Royal Hardware,Nadiad,Wall Texture,37,900
+1180,2026-08-13,ABC Traders,Anand,Wall Putty,43,500
+1181,2026-06-15,ABC Traders,Surat,Exterior Paint,21,1100
+1182,2026-04-28,ABC Traders,Gandhinagar,Exterior Paint,42,1100
+1183,2026-01-21,Royal Hardware,Nadiad,Primer,35,650
+1184,2026-05-23,Shivam Traders,Nadiad,Primer,42,650
+1185,2026-02-16,Shivam Traders,Mehsana,Distemper,27,450
+1186,2026-06-14,Om Hardware,Anand,Wall Putty,15,500
+1187,2026-09-11,Shivam Traders,Ahmedabad,Wall Texture,47,900
+1188,2026-08-21,Krishna Enterprise,Mehsana,Wall Putty,25,500
+1189,2026-03-01,Ganesh Traders,Ahmedabad,Distemper,37,450
+1190,2026-08-25,Jay Ambe Traders,Mehsana,Distemper,8,450
+1191,2026-09-13,Jay Ambe Traders,Gandhinagar,Distemper,8,450
+1192,2026-03-09,Umiya Enterprise,Nadiad,Wall Texture,33,900
+1193,2026-03-04,Mahalaxmi Enterprise,Rajkot,Wall Putty,45,500
+1194,2026-03-23,ABC Traders,Anand,Wall Texture,40,900
+1195,2026-02-17,Arihant Sales,Surat,Primer,12,650
+1196,2026-03-20,Krishna Enterprise,Gandhinagar,Distemper,50,450
+1197,2026-08-01,Jay Ambe Traders,Nadiad,Distemper,35,450
+1198,2026-03-16,Umiya Enterprise,Vadodara,Distemper,17,450
+1199,2026-02-05,Om Hardware,Gandhinagar,Wall Texture,31,900
+1200,2026-01-02,Ganesh Traders,Nadiad,Wall Texture,24,900
+1201,2026-03-18,Arihant Sales,Mehsana,Distemper,39,450
+1202,2026-06-20,Shivam Traders,Nadiad,Exterior Paint,39,1100
+1203,2026-06-14,Jay Ambe Traders,Anand,Primer,49,650
+1204,2026-04-30,Om Hardware,Nadiad,Distemper,7,450
+1205,2026-07-15,Maruti Hardware,Vadodara,Distemper,47,450
+1206,2026-09-11,Royal Hardware,Mehsana,Wall Putty,13,500
+1207,2026-02-21,Royal Hardware,Nadiad,Distemper,11,450
+1208,2026-01-08,Ganesh Traders,Vadodara,Primer,31,650
+1209,2026-02-08,Om Hardware,Anand,Distemper,21,450
+1210,2026-02-11,Ganesh Traders,Anand,Wall Texture,48,900
+1211,2026-06-12,ABC Traders,Surat,Distemper,39,450
+1212,2026-05-01,New Gujarat Sales,Surat,Wall Texture,19,900
+1213,2026-08-11,New Gujarat Sales,Surat,Wall Putty,45,500
+1214,2026-08-16,Krishna Enterprise,Ahmedabad,Primer,49,650
+1215,2026-01-24,Krishna Enterprise,Mehsana,Wall Texture,8,900
+1216,2026-07-11,Jay Ambe Traders,Anand,Distemper,14,450
+1217,2026-04-03,Shree Sales,Anand,Primer,16,650
+1218,2026-05-04,Patel Hardware,Rajkot,Distemper,42,450
+1219,2026-08-25,Krishna Enterprise,Ahmedabad,Wall Texture,34,900
+1220,2026-08-27,Royal Hardware,Vadodara,Wall Texture,48,900
+1221,2026-02-07,Mahalaxmi Enterprise,Gandhinagar,Distemper,27,450
+1222,2026-08-06,Ganesh Traders,Gandhinagar,Wall Texture,34,900
+1223,2026-04-12,Shree Sales,Rajkot,Distemper,35,450
+1224,2026-07-15,Mahalaxmi Enterprise,Gandhinagar,Exterior Paint,27,1100
+1225,2026-06-01,Shivam Traders,Gandhinagar,Wall Putty,47,500
+1226,2026-01-05,Maruti Hardware,Ahmedabad,Exterior Paint,48,1100
+1227,2026-09-12,Mahalaxmi Enterprise,Mehsana,Wall Texture,19,900
+1228,2026-04-23,Krishna Enterprise,Vadodara,Primer,44,650
+1229,2026-02-19,Maruti Hardware,Nadiad,Wall Putty,24,500
+1230,2026-01-18,New Gujarat Sales,Vadodara,Exterior Paint,28,1100
+1231,2026-02-16,New Gujarat Sales,Anand,Wall Texture,25,900
+1232,2026-03-31,Maruti Hardware,Mehsana,Primer,13,650
+1233,2026-09-29,Ganesh Traders,Vadodara,Exterior Paint,22,1100
+1234,2026-05-12,New Gujarat Sales,Mehsana,Distemper,23,450
+1235,2026-02-28,Patel Hardware,Rajkot,Distemper,9,450
+1236,2026-07-23,Shree Sales,Anand,Exterior Paint,28,1100
+1237,2026-01-08,Shree Sales,Nadiad,Wall Texture,39,900
+1238,2026-07-08,Shivam Traders,Mehsana,Wall Texture,42,900
+1239,2026-02-25,ABC Traders,Mehsana,Primer,35,650
+1240,2026-04-24,Ganesh Traders,Nadiad,Wall Putty,45,500
+1241,2026-06-04,Patel Hardware,Ahmedabad,Distemper,12,450
+1242,2026-01-20,Shree Sales,Surat,Wall Texture,36,900
+1243,2026-05-01,Shivam Traders,Nadiad,Exterior Paint,13,1100
+1244,2026-07-09,Mahalaxmi Enterprise,Vadodara,Exterior Paint,31,1100
+1245,2026-08-01,Mahalaxmi Enterprise,Anand,Wall Putty,36,500
+1246,2026-05-24,Om Hardware,Rajkot,Wall Putty,49,500
+1247,2026-08-16,Ganesh Traders,Mehsana,Distemper,20,450
+1248,2026-02-20,Umiya Enterprise,Mehsana,Wall Texture,39,900
+1249,2026-02-01,Jay Ambe Traders,Surat,Distemper,22,450
+1250,2026-08-21,Jay Ambe Traders,Ahmedabad,Wall Putty,47,500
+1251,2026-01-26,Patel Hardware,Rajkot,Wall Texture,20,900
+1252,2026-02-05,Mahalaxmi Enterprise,Rajkot,Exterior Paint,18,1100
+1253,2026-04-30,Maruti Hardware,Ahmedabad,Wall Texture,14,900
+1254,2026-05-22,Royal Hardware,Gandhinagar,Primer,13,650
+1255,2026-03-31,Ganesh Traders,Ahmedabad,Wall Putty,47,500
+1256,2026-03-09,Maruti Hardware,Rajkot,Wall Putty,27,500
+1257,2026-06-15,Krishna Enterprise,Ahmedabad,Wall Putty,16,500
+1258,2026-03-06,Shree Sales,Surat,Distemper,38,450
+1259,2026-09-01,Royal Hardware,Surat,Distemper,28,450
+1260,2026-08-20,Mahalaxmi Enterprise,Ahmedabad,Exterior Paint,19,1100
+1261,2026-09-24,Shakti Traders,Ahmedabad,Wall Texture,34,900
+1262,2026-02-01,Shivam Traders,Surat,Distemper,30,450
+1263,2026-09-09,Umiya Enterprise,Surat,Distemper,9,450
+1264,2026-06-14,Shree Sales,Vadodara,Exterior Paint,14,1100
+1265,2026-05-21,Mahalaxmi Enterprise,Mehsana,Exterior Paint,45,1100
+1266,2026-07-15,Krishna Enterprise,Nadiad,Exterior Paint,38,1100
+1267,2026-09-16,Shree Sales,Surat,Exterior Paint,32,1100
+1268,2026-04-21,Umiya Enterprise,Rajkot,Distemper,33,450
+1269,2026-07-31,Shivam Traders,Anand,Wall Texture,34,900
+1270,2026-02-18,Om Hardware,Gandhinagar,Wall Texture,32,900
+1271,2026-07-11,Umiya Enterprise,Nadiad,Primer,48,650
+1272,2026-02-04,Shree Sales,Anand,Wall Putty,10,500
+1273,2026-02-19,Royal Hardware,Ahmedabad,Wall Texture,13,900
+1274,2026-06-18,Om Hardware,Anand,Wall Putty,31,500
+1275,2026-01-27,Krishna Enterprise,Mehsana,Wall Texture,43,900
+1276,2026-02-23,Jay Ambe Traders,Vadodara,Exterior Paint,37,1100
+1277,2026-09-04,Om Hardware,Mehsana,Primer,11,650
+1278,2026-02-28,Jay Ambe Traders,Anand,Wall Texture,41,900
+1279,2026-01-14,Ganesh Traders,Gandhinagar,Exterior Paint,47,1100
+1280,2026-01-15,New Gujarat Sales,Gandhinagar,Primer,22,650
+1281,2026-06-23,Patel Hardware,Vadodara,Wall Texture,5,900
+1282,2026-07-25,New Gujarat Sales,Ahmedabad,Wall Putty,14,500
+1283,2026-02-16,Shivam Traders,Anand,Exterior Paint,18,1100
+1284,2026-08-21,Om Hardware,Gandhinagar,Wall Texture,15,900
+1285,2026-06-16,Shree Sales,Ahmedabad,Exterior Paint,43,1100
+1286,2026-03-21,ABC Traders,Surat,Primer,44,650
+1287,2026-05-20,Shivam Traders,Nadiad,Distemper,47,450
+1288,2026-08-15,Jay Ambe Traders,Surat,Distemper,22,450
+1289,2026-06-26,Krishna Enterprise,Nadiad,Distemper,12,450
+1290,2026-09-27,Jay Ambe Traders,Anand,Wall Texture,7,900
+1291,2026-01-29,Krishna Enterprise,Rajkot,Wall Putty,18,500
+1292,2026-03-12,Om Hardware,Surat,Wall Texture,23,900
+1293,2026-01-04,Patel Hardware,Vadodara,Distemper,32,450
+1294,2026-07-14,Jay Ambe Traders,Mehsana,Exterior Paint,50,1100
+1295,2026-02-06,Shivam Traders,Ahmedabad,Distemper,7,450
+1296,2026-08-24,Mahalaxmi Enterprise,Anand,Wall Putty,25,500
+1297,2026-07-27,Shree Sales,Anand,Distemper,23,450
+1298,2026-01-11,Maruti Hardware,Nadiad,Wall Texture,15,900
+1299,2026-07-05,Ganesh Traders,Surat,Wall Putty,32,500
+1300,2026-05-05,Shivam Traders,Surat,Distemper,42,450
